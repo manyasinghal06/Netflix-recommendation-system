@@ -101,7 +101,6 @@ Hybrid Score = (w_svd × SVD Score)
 
 ## 📂 Project Structure
 
-```text
 Netflix-Recommendation-System/
 │
 ├── app/
@@ -139,9 +138,6 @@ Netflix-Recommendation-System/
 │
 ├── requirements.txt
 └── README.md
-```
-
----
 
 ## ⚙️ Installation
 
