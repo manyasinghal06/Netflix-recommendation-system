@@ -101,19 +101,11 @@ Hybrid Score = (w_svd × SVD Score)
 
 ## 📂 Project Structure
 
+```text
 Netflix-Recommendation-System/
 │
 ├── app/
 │   └── streamlit_app.py
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── models/
-│   ├── usercf.pkl
-│   ├── itemcf.pkl
-│   └── svd.pkl
 │
 ├── notebooks/
 │   └── eda.ipynb
@@ -138,6 +130,8 @@ Netflix-Recommendation-System/
 │
 ├── requirements.txt
 └── README.md
+```
+
 
 ## ⚙️ Installation
 
