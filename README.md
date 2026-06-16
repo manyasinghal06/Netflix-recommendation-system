@@ -69,17 +69,17 @@ Hybrid Score = (w_svd × SVD Score)
 
 | Model | RMSE |
 |---------|---------|
-| UserCF | YOUR_VALUE |
-| ItemCF | YOUR_VALUE |
+| UserCF | 1.02 |
+| ItemCF | 1.08 |
 | SVD | 0.961 |
 
 ### MAP@10 Evaluation
 
 | Candidate Pool | MAP@10 |
 |----------------|---------|
-| Min 20 Ratings | YOUR_VALUE |
-| Min 50 Ratings | YOUR_VALUE |
-| Min 100 Ratings | YOUR_VALUE |
+| Min 20 Ratings | 0.028 |
+| Min 50 Ratings | 0.030 |
+| Min 100 Ratings | 0.036 |
 
 ---
 
